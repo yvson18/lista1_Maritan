@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575762176 source:c:\users\yvson\documents\list1\data\main.cpp
+	<iostream>
+	<string.h>
+	"Data.h"
+
+1575715582 c:\users\yvson\documents\list1\data\include\data.h
+
+1575763014 source:c:\users\yvson\documents\list1\data\src\data.cpp
+	<iostream>
+	<string>
+	"Data.h"
+

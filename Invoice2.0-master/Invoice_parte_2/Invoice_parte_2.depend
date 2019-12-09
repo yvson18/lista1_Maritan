@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575554675 source:c:\users\aluno\desktop\invoice_parte_2\src\invoice.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1575553106 source:c:\users\aluno\desktop\invoice_parte_2\main.cpp
+	<iostream>
+
+1575554645 c:\users\aluno\desktop\invoice_parte_2\include\invoice.h
+
+1575898739 source:c:\users\yvson\desktop\invoice2.0-master\invoice_parte_2\main.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1575898865 source:c:\users\yvson\desktop\invoice2.0-master\invoice_parte_2\src\invoice.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1575898865 c:\users\yvson\desktop\invoice2.0-master\invoice_parte_2\include\invoice.h
+

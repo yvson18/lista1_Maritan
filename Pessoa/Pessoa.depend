@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573991140 source:c:\users\yvson\documents\alguma parada\pessoa\main.cpp
+	<iostream>
+	<string>
+	"Pessoa.h"
+
+1573991615 c:\users\yvson\documents\alguma parada\pessoa\include\pessoa.h
+
+1573991577 source:c:\users\yvson\documents\alguma parada\pessoa\src\pessoa.cpp
+	<iostream>
+	<string>
+	"Pessoa.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575220220 source:c:\users\yvson\documents\alguma parada\pagamentos\main.cpp
+	<iostream>
+	<string>
+	"Pagamento.h"
+	"ControleDePagamentos.h"
+
+1575215104 c:\users\yvson\documents\alguma parada\pagamentos\include\pagamento.h
+
+1575220261 source:c:\users\yvson\documents\alguma parada\pagamentos\src\pagamento.cpp
+	<iostream>
+	<string>
+	"Pagamento.h"
+
+1575220201 source:c:\users\yvson\documents\alguma parada\pagamentos\src\controledepagamentos.cpp
+	<iostream>
+	<string>
+	"ControleDePagamentos.h"
+	"Pagamento.h"
+
+1575219680 c:\users\yvson\documents\alguma parada\pagamentos\include\controledepagamentos.h
+	"Pagamento.h"
+

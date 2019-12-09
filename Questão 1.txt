@@ -1,0 +1,11 @@
+Questão 1
+
+a) Classes são moldes que caracterizam objetos de acordo com metodos ou atributos criados pelo programador. Por outro lado, ojetos são 
+instancias da classe ao passo que abstraem objetos reais.
+
+b)Um construtor serve para inicializar de maneira personalizada um objeto. Quando o programador deseja explicitar atributos default para o objeto
+ele pode fazer isso por meio de um metodo construtor que apresenta como implementação de sintaxe nenhum tipo de retorno e a atribuição de valores 
+às variáveis.
+
+c)O encapsulamento é uma prática indicada quando em uma aplicação o programdor não quer que o usuário altere dados do atributo. Exemplo: "O valor do saldo 
+em uma conta bancária."  
